@@ -9,7 +9,7 @@ export default function Header(){
   };
     return(
         <div>
-        <div className="bg-cover md:h-64 h-96 w-screen bg-[url('./unsplash_kKvQJ6rK6S4.png')] bg-black ">
+        <div className="bg-cover md:h-64 h-96 w-screen bg-[url('./unsplash_kKvQJ6rK6S4.png')] ">
             <nav className=" text-white px-6 py-3">
                 <div className="container mx-auto flex justify-between items-center">
                     <div className="text-2xl font-bold">
